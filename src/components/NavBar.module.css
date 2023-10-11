@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100vw;
+    background-color: rgb(205, 142, 188);
+    position: fixed;
+    top: 0;
+}
+
+nav p {
+    font-size: 1.6rem;
+    color: white;
+    margin: 0 20px;
+    text-transform: uppercase;
+    font-family: 'KoHo', sans-serif;
+}
+
+nav img {
+    margin: 0 50px;
+    height: 100px;
+}
