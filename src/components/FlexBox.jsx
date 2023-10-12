@@ -1,6 +1,6 @@
 import FlexCard from "./FlexCard";
 import styles from "./FlexBox.module.css";
-import Data from '../Data.json' with {type: 'json'};
+import Data from '../Data.json' 
 
 export default function FlexBox() {
 const array = Data
